@@ -24,3 +24,12 @@ if __name__ == '__main__':
                 decoded_data = base64.decodebytes(base64_bytes + b'==')
                 # print(decoded_data)
                 file_to_save.write(decoded_data)
+        # cand valorile cheilor sunt dictionare se creaza directoarele in root dar
+        # ce este dictionar trebuie creat in fiecare subdirector
+        if type(i[1]) is dict:
+            # print(str(i[0]))
+            # creez directorul (cheia)
+            path = os.path.join(path_dir, str(i[0]))
+            os.makedirs(path)
+            # in interiorul directorului trebuie sa formez fisierele/directoarele din dictionar
+        
