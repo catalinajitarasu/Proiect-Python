@@ -12,10 +12,10 @@ Exemplu de dictionar:
 {“dir1” : {“dir2”: {“file1”: “continut1”, “file2”: “continut2”}, “file3”: “continut3”}, “file4”: “continut4”}
 
 OUTPUT:
-root_folder
----dir1
-------dir2
----------file1: continut1
----------file2: continut2
-------file3: continut3
----file4: continut4
+root_folder                                                                                                         
+---dir1                                                                                            
+------dir2                                                                                                                
+---------file1: continut1                                                                                                 
+---------file2: continut2                                                                                                         
+------file3: continut3                                                                                                    
+---file4: continut4                                                                            
