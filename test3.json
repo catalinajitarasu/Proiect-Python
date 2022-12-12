@@ -1,0 +1,5 @@
+{ "dir1": {"dir2": {"file1.txt": "Y29udGludXQgZmlzaWVyIDE=", "file2.txt": "Y29udGludXQgZmlzaWVyIDI="},
+          "file3.txt": "Y29udGludXQgZmlzaWVyIDM="
+          },
+  "file4.txt" : "Y29udGludXQgZmlzaWVyIDQ="
+}

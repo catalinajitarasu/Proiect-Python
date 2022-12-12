@@ -1,0 +1,13 @@
+C:\Users\Catalina\OneDrive\Desktop\Proiect\root_folder
+C:\Users\Catalina\OneDrive\Desktop\Proiect\test1.json
+
+C:\Users\Catalina\OneDrive\Desktop\Proiect\root_folder
+C:\Users\Catalina\OneDrive\Desktop\Proiect\test2.json
+
+C:\Users\Catalina\OneDrive\Desktop\Proiect\root_folder
+C:\Users\Catalina\OneDrive\Desktop\Proiect\test3.json
+
+C:\Users\Catalina\OneDrive\Desktop\Proiect\root_folder
+C:\Users\Catalina\OneDrive\Desktop\Proiect\test4.json
+
+
